@@ -4,4 +4,4 @@
 # Banco de dados [x]
 # Herança, interface e polimorfismo []
 # Testes unitários []
-# Socket []
+# Socket [x]
